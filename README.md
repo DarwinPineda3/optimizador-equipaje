@@ -32,7 +32,7 @@ El sistema calcula la mejor combinación posible que cumpla los requisitos, llev
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/optimizador-equipaje.git
+    git clone https://github.com/DarwinPineda3/optimizador-equipaje.git
     ```
 2. Abre el archivo `index.html` en tu navegador favorito.
 3. ¡Empieza a agregar elementos y calcular combinaciones!
@@ -66,6 +66,6 @@ El sistema calcula la mejor combinación posible que cumpla los requisitos, llev
 ## 🧑‍💻 Autor
 
 **Darwin Pineda**  
-[GitHub](https://github.com/tu-usuario)
+[GitHub](https://github.com/DarwinPineda3/optimizador-equipaje.git)
 
 ---
